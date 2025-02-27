@@ -7,16 +7,16 @@ This project includes two images representing different pages of an application.
 ### 1. Home Screen
 This image represents the Home Screen of the application.
 
-![Home Screen](home_screen_image.png)
+![Home Screen](https://github.com/Kawinkawin/Anthill-Networks-Task-1/blob/main/HOME_img.png)
 
 ### 2. Page 2
-This image represents Page 2 of the application.
+This image represents Page 2(src\pages\CertifiedPreOwnedPage) of the application.
 
-![Page 2](page_2_image.png)
+![Page 2](https://github.com/Kawinkawin/Anthill-Networks-Task-1/blob/main/page_2.png)
 
 ## Instructions
 
 1. **Clone the Repository**  
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Kawinkawin/Anthill-Networks-Task-1.git
