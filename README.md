@@ -1,8 +1,11 @@
-# Project Title
+# Task 1: Second-hand Car Buying Application
 
-This project includes two images representing different pages of an application. Below you will find the images and a brief description of each.
+## Objective
+Develop a web-based application to facilitate the buying and selling of second-hand cars.
 
-## Images
+
+
+## Output Images
 
 ### 1. Home Screen
 This image represents the Home Screen of the application.
