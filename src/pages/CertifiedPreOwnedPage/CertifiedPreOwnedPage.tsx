@@ -164,7 +164,7 @@ const CertifiedPreOwnedPage: React.FC = () => {
           <div className="car-grid">
             <div className="car-card">
               <div className="car-tag">Featured</div>
-              <img src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=300&q=80" alt="Chevrolet Suburban" />
+              <img src="https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Scorpio-N/10817/1690351800434/front-left-side-47.jpg" alt="Chevrolet Suburban" />
               <div className="car-details">
                 <h3>Chevrolet Suburban 2021</h3>
                 <div className="car-price">Rs.785,900</div>
@@ -187,7 +187,7 @@ const CertifiedPreOwnedPage: React.FC = () => {
 
             <div className="car-card">
               <div className="car-tag">Featured</div>
-              <img src="https://images.unsplash.com/photo-1583121274602-3e2820c69888?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=300&q=80" alt="Chevrolet Suburban" />
+              <img src="https://s.yimg.com/ny/api/res/1.2/NwxLU4FKi3hNYtI.C6uAbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY2MDtoPTQ0OQ--/https://media.zenfs.com/en-US/homerun/us.autos.jdpower/0fbdb6244e4caecb5218215b1864ce0e" alt="Chevrolet Suburban" />
               <div className="car-details">
                 <h3>Chevrolet Suburban 2021</h3>
                 <div className="car-price">Rs.442,500</div>
@@ -210,7 +210,7 @@ const CertifiedPreOwnedPage: React.FC = () => {
 
             <div className="car-card">
               <div className="car-tag">Featured</div>
-              <img src="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=300&q=80" alt="Chevrolet Suburban" />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgAEJemMjyDatYh_mBy7XjZoWQf5q7FwNWvQ&s" alt="Chevrolet Suburban" />
               <div className="car-details">
                 <h3>Chevrolet Suburban 2021</h3>
                 <div className="car-price">Rs.987,800</div>
@@ -233,7 +233,7 @@ const CertifiedPreOwnedPage: React.FC = () => {
 
             <div className="car-card">
               <div className="car-tag">Featured</div>
-              <img src="https://images.unsplash.com/photo-1616788494707-ec28f08d05a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=300&q=80" alt="Chevrolet Suburban" />
+              <img src="https://cdn.skoda-auto.com/images/sites/enin-v2/a71213c6-8d7e-4d75-b8db-0c633fe07cf4/8bca40fc7d92b44e04890e34cfb8852d/HeroBannerModule/d5873a76116765a49a9393a5cabdf63b/6c15c19c9087422c4b3593b63bcd9cadee61d995aa9aa406ecd1beab812bc116/Header_bp1920_1.webp" alt="Chevrolet Suburban" />
               <div className="car-details">
                 <h3>Chevrolet Suburban 2021</h3>
                 <div className="car-price">Rs.564,300</div>
@@ -256,7 +256,7 @@ const CertifiedPreOwnedPage: React.FC = () => {
 
             <div className="car-card">
               <div className="car-tag">Featured</div>
-              <img src="https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=300&q=80" alt="Chevrolet Suburban" />
+              <img src="https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Scorpio-N/10817/1690351800434/front-left-side-47.jpg" alt="Chevrolet Suburban" />
               <div className="car-details">
                 <h3>Chevrolet Suburban 2021</h3>
                 <div className="car-price">Rs.656,700</div>
@@ -279,7 +279,7 @@ const CertifiedPreOwnedPage: React.FC = () => {
 
             <div className="car-card">
               <div className="car-tag">Featured</div>
-              <img src="https://images.unsplash.com/photo-1617373310678-8c6ae80b19db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=300&q=80" alt="Chevrolet Suburban" />
+              <img src="https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/XUV-3XO/11683/1714407830967/front-left-side-47.jpg" alt="Chevrolet Suburban" />
               <div className="car-details">
                 <h3>Chevrolet Suburban 2021</h3>
                 <div className="car-price">Rs.733,900</div>
